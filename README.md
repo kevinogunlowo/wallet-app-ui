@@ -1,4 +1,4 @@
-# food_ui
+# wallet_app_ui
 
 A new Flutter project.
 
